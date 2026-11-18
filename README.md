@@ -12,16 +12,19 @@ GitHub Pages: Settings > Pages > Source: *Deploy from a branch*, branch `main`, 
 
 De foto's worden rechtstreeks geladen van Wikimedia Commons (geen kopie in de repo). Naam en licentie staan onder elke foto:
 
-- Basílica de Santa María (banner) en Palmeral: Diego Delso, CC BY-SA 4.0
+- Basílica de Santa María (banner) en Palacio de Altamira (Waarom Elche): Diego Delso, CC BY-SA 4.0
 - Plaza de la Glorieta: Zarateman, CC0
 - La Marquesa Golf: MariaCM2, CC BY-SA 4.0
-- Arroz con costra: Hinzel, publiek domein
+- Tapas (Restaurants): Ines Yeh, CC BY 2.0
 
 Voor Alenda, Font del Llop en El Plantio bestaan geen vrije foto's op Commons. Eigen foto's (bv. van 2025) kunnen in een map `img/` en dan in `index.html` gezet worden.
+
+Let op: Wikimedia levert thumbnails alleen in vaste breedtes (bv. 1280 of 1920 px). Een andere breedte, zoals 1600 px, geeft een fout en de foto verschijnt niet.
 
 ## Wijzigingslog
 
 | Datum | Wijziging |
 |---|---|
+| 2026-11-18 | Foto's vervangen: 'Waarom Elche' nu Palacio de Altamira (was Palmeral-panorama), restaurants nu tapas (was arroz con costra). |
 | 2026-11-18 | Foto's toegevoegd: banner (Basílica), Palmeral, Glorieta, La Marquesa, arroz con costra. Geladen van Wikimedia Commons met naamsvermelding. |
 | 2026-11-18 | Repo aangemaakt (publiek, zoals Tavira). Eerste voorstel `index.html`: Hotel Elche Centro, El Plantio par 3, Alenda, La Marquesa, Font del Llop, middeleeuws festival, kostenraming en planning. Nog niets geboekt. |
